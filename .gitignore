@@ -1,9 +1,7 @@
-/.vscode
 /client/node_modules
 /server/node_modules
 /server/.env
 /client/.env
 /client/src/common/data.js
-temp_auto_push.bat
-temp_interactive_push.bat
-branch_structure.json
+config.bat
+node_modules

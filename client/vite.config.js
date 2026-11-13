@@ -7,4 +7,4 @@ export default defineConfig({
     // Add this line
     include: "**/*.jsx",
   })]
-})
+});
